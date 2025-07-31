@@ -1,4 +1,3 @@
-
 const express = require('express')
 const {serverConfig, Logger} = require('./config')
 const app = express();
